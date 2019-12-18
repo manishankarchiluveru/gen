@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#INCLUDE<MATH.H>
 
 int main(int argc,char *argv[])
 {
